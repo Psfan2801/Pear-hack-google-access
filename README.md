@@ -6,6 +6,6 @@
 
 <a href="https://classroom.google.com/u/0/w/ODIxNjU1MTkzNzM0/t/all#:~:text=Benjamin%20Pena%2DBran,Google%20Sheets">Google Classroom - Tasks</a>
 
-<a href="chrome://chrome-links">Chrome Links</a>
+[Chrome Links](chrome://chrome-links)
 
-<a href="chrome://extensions">Chrome Extensions</a>
+[Chrome Extensions](chrome://extensions)
