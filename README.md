@@ -9,3 +9,5 @@
 [Chrome Links](chrome://chrome-links)
 
 [Chrome Extensions](chrome://extensions)
+
+[Classroom Google](https://classroom.google.com)
