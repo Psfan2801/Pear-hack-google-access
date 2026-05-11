@@ -13,3 +13,5 @@
 [Classroom Google](https://classroom.google.com)
 
 <a href="https://drive.google.com">Google Drive</a>
+
+<a href="https://classroom.google.com/c/ODM2MzY4NTE2MTcz/a/ODYwMDkzMjQwMzg1/details">Google Classroom - Assignment Details</a>
